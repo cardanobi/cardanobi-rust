@@ -1,0 +1,14 @@
+{
+  "available_rewards": 41126804119,
+  "controlled_stakes": 92101860445,
+  "delegated_since_epoch_no": 472,
+  "is_registered": true,
+  "last_deleg_tx": "004ac881d9fd1a6748a72547e82e89beb074e96c3a76670c5a11b494d9260f31",
+  "last_reg_dereg_epoch_no": 289,
+  "last_reg_dereg_tx": "5234f99b194603b2b0b63fff5d60ac9df916190360497d4f189e4ff4dd9130ff",
+  "pool_id": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+  "stake_address": "stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma",
+  "total_balance": 133228664564,
+  "total_rewards": 41126804119,
+  "total_withdrawals": 0
+}

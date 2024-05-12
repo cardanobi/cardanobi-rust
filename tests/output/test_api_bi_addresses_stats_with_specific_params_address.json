@@ -1,0 +1,56 @@
+[
+  {
+    "address": "addr1qyyc97lwzpvsgnywpf2awx2dylzgkta36j8fevpncf2yvdh62pqk8h92xe3rdgywnnhpujly5cykywmjk4d73mdwns0sem8e5r",
+    "epoch_no": 470,
+    "stake_address": "stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma",
+    "tx_count": 2
+  },
+  {
+    "address": "addr1qyyc97lwzpvsgnywpf2awx2dylzgkta36j8fevpncf2yvdh62pqk8h92xe3rdgywnnhpujly5cykywmjk4d73mdwns0sem8e5r",
+    "epoch_no": 455,
+    "stake_address": "stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma",
+    "tx_count": 1
+  },
+  {
+    "address": "addr1qyyc97lwzpvsgnywpf2awx2dylzgkta36j8fevpncf2yvdh62pqk8h92xe3rdgywnnhpujly5cykywmjk4d73mdwns0sem8e5r",
+    "epoch_no": 413,
+    "stake_address": "stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma",
+    "tx_count": 1
+  },
+  {
+    "address": "addr1qyyc97lwzpvsgnywpf2awx2dylzgkta36j8fevpncf2yvdh62pqk8h92xe3rdgywnnhpujly5cykywmjk4d73mdwns0sem8e5r",
+    "epoch_no": 390,
+    "stake_address": "stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma",
+    "tx_count": 3
+  },
+  {
+    "address": "addr1qyyc97lwzpvsgnywpf2awx2dylzgkta36j8fevpncf2yvdh62pqk8h92xe3rdgywnnhpujly5cykywmjk4d73mdwns0sem8e5r",
+    "epoch_no": 362,
+    "stake_address": "stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma",
+    "tx_count": 1
+  },
+  {
+    "address": "addr1qyyc97lwzpvsgnywpf2awx2dylzgkta36j8fevpncf2yvdh62pqk8h92xe3rdgywnnhpujly5cykywmjk4d73mdwns0sem8e5r",
+    "epoch_no": 329,
+    "stake_address": "stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma",
+    "tx_count": 1
+  },
+  {
+    "address": "addr1qyyc97lwzpvsgnywpf2awx2dylzgkta36j8fevpncf2yvdh62pqk8h92xe3rdgywnnhpujly5cykywmjk4d73mdwns0sem8e5r",
+    "epoch_no": 315,
+    "stake_address": "stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma",
+    "tx_count": 1
+  },
+  {
+    "address": "addr1qyyc97lwzpvsgnywpf2awx2dylzgkta36j8fevpncf2yvdh62pqk8h92xe3rdgywnnhpujly5cykywmjk4d73mdwns0sem8e5r",
+    "epoch_no": 314,
+    "stake_address": "stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma",
+    "tx_count": 1
+  },
+  {
+    "address": "addr1qyyc97lwzpvsgnywpf2awx2dylzgkta36j8fevpncf2yvdh62pqk8h92xe3rdgywnnhpujly5cykywmjk4d73mdwns0sem8e5r",
+    "epoch_no": 289,
+    "stake_address": "stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma",
+    "tx_count": 4
+  }
+]

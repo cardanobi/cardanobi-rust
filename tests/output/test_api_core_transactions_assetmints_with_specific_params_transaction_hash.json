@@ -1,0 +1,62 @@
+[
+  {
+    "fingerprint": "asset13kkqusmscnwycv5uxktkhy9t0vpah0mzz09szf",
+    "name": "TheGreatGatsby835",
+    "policy_hex": "80c613ceadc1aa49422925bfc962b2519a6ae1bf6e2f8ec749df5ed8",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset16dgewuvjdg4m4rhhsz6k8ym3s8ac7gz0j3tgk9",
+    "name": "TheGreatGatsby467",
+    "policy_hex": "80c613ceadc1aa49422925bfc962b2519a6ae1bf6e2f8ec749df5ed8",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset19xydzwjvn6725t3a9fn586f3pj932k0kvs93kf",
+    "name": "TheGreatGatsby867",
+    "policy_hex": "80c613ceadc1aa49422925bfc962b2519a6ae1bf6e2f8ec749df5ed8",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1fd863wp7nd0jv2lz0ljesxh2gpn8cycdkztye9",
+    "name": "TheGreatGatsby981",
+    "policy_hex": "80c613ceadc1aa49422925bfc962b2519a6ae1bf6e2f8ec749df5ed8",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1gtldmxkks4af38dyz2qwshgltxvjqw5axyqfd5",
+    "name": "TheGreatGatsby180",
+    "policy_hex": "80c613ceadc1aa49422925bfc962b2519a6ae1bf6e2f8ec749df5ed8",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1h92eu48jjnh4vzpjq7zutmzngx863yke65h6m3",
+    "name": "TheGreatGatsby246",
+    "policy_hex": "80c613ceadc1aa49422925bfc962b2519a6ae1bf6e2f8ec749df5ed8",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1v2s8pfs9dvh4cyrxzll2q5xcrmhpvj9ll6df99",
+    "name": "TheGreatGatsby315",
+    "policy_hex": "80c613ceadc1aa49422925bfc962b2519a6ae1bf6e2f8ec749df5ed8",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1yh4h07gdc2uplk6p40k89he553w00v79j6vlnf",
+    "name": "TheGreatGatsby642",
+    "policy_hex": "80c613ceadc1aa49422925bfc962b2519a6ae1bf6e2f8ec749df5ed8",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1znwa2p75ryy6xmslu604yqwhe39c2yrzwflz8d",
+    "name": "TheGreatGatsby783",
+    "policy_hex": "80c613ceadc1aa49422925bfc962b2519a6ae1bf6e2f8ec749df5ed8",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1zrvganzsyd0fvw7ts7ja9l63c87he04u7g3aq6",
+    "name": "TheGreatGatsby164",
+    "policy_hex": "80c613ceadc1aa49422925bfc962b2519a6ae1bf6e2f8ec749df5ed8",
+    "quantity": 1
+  }
+]

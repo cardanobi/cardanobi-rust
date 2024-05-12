@@ -1,0 +1,44 @@
+[
+  {
+    "amount": 2000000000000,
+    "block_no": 5196857,
+    "epoch_no": 241,
+    "mir_type": "treasury",
+    "tx_hash_hex": "fabfad0aaa2b52b8304f45edc0350659ad0d73f9d1065d9cd3ef7d5a599ac57d"
+  },
+  {
+    "amount": 5368552000000,
+    "block_no": 5984256,
+    "epoch_no": 278,
+    "mir_type": "treasury",
+    "tx_hash_hex": "67b355dce27ca23e6d5bfdba6765e7e8b47b9c0a99295f81d7b40a3d79e38a56"
+  },
+  {
+    "amount": 7619047000000,
+    "block_no": 6865925,
+    "epoch_no": 320,
+    "mir_type": "treasury",
+    "tx_hash_hex": "924f59daee600c00fef3489cacba8b71f150c7da67e361531c61908dffc430f3"
+  },
+  {
+    "amount": 28641975308642,
+    "block_no": 7295227,
+    "epoch_no": 341,
+    "mir_type": "treasury",
+    "tx_hash_hex": "70b368bf7adb61d6149984d73f312eb51721145f0f0dd13e6e38ee02298c0382"
+  },
+  {
+    "amount": 33901607403799,
+    "block_no": 7988996,
+    "epoch_no": 374,
+    "mir_type": "treasury",
+    "tx_hash_hex": "911bbe13848935a22eccd5387fbaa5d3612cd6c509896fa73de251f8e2688b60"
+  },
+  {
+    "amount": 8931404863383,
+    "block_no": 8722618,
+    "epoch_no": 409,
+    "mir_type": "treasury",
+    "tx_hash_hex": "4b4ca196d524ae3877f772d5f0871e76aeedbf0330d2549178a834158593b299"
+  }
+]

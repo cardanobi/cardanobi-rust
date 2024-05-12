@@ -1,0 +1,20 @@
+{
+  "block_no": 10306601,
+  "epoch_no": 484,
+  "epoch_slot_no": 249619,
+  "hash": "GovtgLdfHy0PmrfqKlsEjH8RTGwiLzmoKDo9U4t8PV0=",
+  "hash_hex": "1a8bed80b75f1f2d0f9ab7ea2a5b048c7f114c6c222f39a8283a3d538b7c3d5d",
+  "id": 10338700,
+  "op_cert": "NClbnyX0zQOY/qAtrzo31zPYi7xKwk6BcpjS9G/3T+w=",
+  "op_cert_counter": 19,
+  "op_cert_hex": "34295b9f25f4cd0398fea02daf3a37d733d88bbc4ac24e817298d2f46ff74fec",
+  "previous_id": 10338699,
+  "proto_major": 8,
+  "proto_minor": 0,
+  "size": 15735,
+  "slot_leader_id": 4560076,
+  "slot_no": 123974419,
+  "time": "2024-05-12T19:05:10",
+  "tx_count": 9,
+  "vrf_key": "vrf_vk1vj6xhtj4ymj7e66625yjdzw0wzeyn3689d834f4grld7w5pfxatsdwt8nw"
+}

@@ -1,0 +1,12 @@
+running 4 tests
+test tests::test_api_bi_pools_stats_with_specific_params_pool_hash ... ok
+test tests::test_api_bi_addresses_stats_with_specific_params_address ... ok
+test tests::test_api_bi_pools_stats_epochs_with_specific_params_epoch_no ... ok
+test tests::test_api_bi_pools_stats_lifetime_with_specific_params_pool_hash ... ok
+
+test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 1.48s
+
+test_api_bi_pools_stats_with_specific_params_pool_hash PASSED in 346ms
+test_api_bi_addresses_stats_with_specific_params_address PASSED in 641ms
+test_api_bi_pools_stats_epochs_with_specific_params_epoch_no PASSED in 1176ms
+test_api_bi_pools_stats_lifetime_with_specific_params_pool_hash PASSED in 1475ms

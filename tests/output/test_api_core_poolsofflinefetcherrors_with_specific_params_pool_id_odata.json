@@ -1,0 +1,166 @@
+{
+  "@odata.context": "https://cardanobi.io/api/core/odata/$metadata#PoolsOfflineFetchErrors",
+  "@odata.nextLink": "https://cardanobi.io/api/core/odata/poolsofflinefetcherrors/4268?$skip=20",
+  "value": [
+    {
+      "fetch_error": "Hash mismatch from when fetching metadata from https://bit.ly/3nnt1ax. Expected 446a2fc88b19a288f2fb6da512922653c9942000ada10c846d71e48bcea74e8a but got 5f6583fb9515eb9df15715d940205eeac0c2a53e5c83c6eb4276a00a98db8e02.",
+      "fetch_time": "2023-02-06T00:16:37.343007Z",
+      "id": 16620,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 0
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-06T15:34:45.814106Z",
+      "id": 18434,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 1
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-06T19:07:25.777619Z",
+      "id": 18828,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 2
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-07T01:05:26.275304Z",
+      "id": 20279,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 3
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-07T12:48:14.489341Z",
+      "id": 22387,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 4
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-08T17:09:41.066642Z",
+      "id": 26196,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 5
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-09T22:49:36.219531Z",
+      "id": 29672,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 6
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-10T23:13:02.83642Z",
+      "id": 32625,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 7
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-12T04:28:20.099293Z",
+      "id": 36156,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 8
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-13T06:23:53.577048Z",
+      "id": 39252,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 9
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-14T08:37:03.814725Z",
+      "id": 42431,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 10
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-15T10:44:09.032013Z",
+      "id": 45574,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 11
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-16T14:03:13.115938Z",
+      "id": 48879,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 12
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-18T09:04:50.100849Z",
+      "id": 54092,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 13
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-19T10:40:41.533224Z",
+      "id": 57217,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 14
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-20T12:49:03.592901Z",
+      "id": 60357,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 15
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-21T16:26:32.907547Z",
+      "id": 63682,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 16
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-22T20:40:38.246022Z",
+      "id": 67198,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 17
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-23T21:39:28.556885Z",
+      "id": 70356,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 18
+    },
+    {
+      "fetch_error": "URL parse error from for pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc resulted in : InvalidUrlException \"pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc\" \"Invalid URL\"",
+      "fetch_time": "2023-02-24T22:36:23.174784Z",
+      "id": 73468,
+      "pmr_id": 25193,
+      "pool_id": 4268,
+      "retry_count": 19
+    }
+  ]
+}

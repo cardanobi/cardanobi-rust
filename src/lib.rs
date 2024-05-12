@@ -8,6 +8,7 @@ pub mod utils {
 }
 
 pub mod domains {
+    pub mod core;
     pub mod bi;
 }
 
@@ -17,6 +18,8 @@ pub mod cardanobi;
 // Re-export the public API
 pub use crate::utils::api_client::APIClient;
 pub use crate::cardanobi::CardanoBI;
+pub use crate::domains::core::Core;
 pub use crate::domains::bi::Bi;
+
 
 

@@ -1,0 +1,102 @@
+[
+  {
+    "active_epoch_no": 228,
+    "cert_index": 0,
+    "fixed_cost": 340000000,
+    "margin": 0.01,
+    "offline_data": null,
+    "owners_addresses": [
+      "stake1u9p7ldvwtm608p9jg6xarv76pu232zxu2fw68k7g7mvfr0qru67nh",
+      "stake1u9x5lv9f7g43nuxw9s5cp392n054tuwejyvq4yd0haw7ads9ypx46"
+    ],
+    "pledge": 50000000000,
+    "pool_hash_bech32": "pool18gys2arurr8su3qssvh7vjcn42k5clgrvdxah8mxcg5xquvfu8p",
+    "pool_hash_hex": "3a0905747c18cf0e4410832fe64b13aaad4c7d03634ddb9f66c22860",
+    "relays": [
+      {
+        "dns_name": "relay1.broekhuijse.net",
+        "dns_srv_name": null,
+        "ipv4": null,
+        "ipv6": null,
+        "port": 3011
+      }
+    ],
+    "reward_addr_hash_hex": "e1b8b85b5988ed10223b9f179db5650bb91fa73ace98852cfc4fbeb604",
+    "vrf_key_hash_hex": "3fb99e238977460b474d91a9ca35f35c912fee4adc9dad4c7f05327deba4449f"
+  },
+  {
+    "active_epoch_no": 228,
+    "cert_index": 1,
+    "fixed_cost": 340000000,
+    "margin": 0.01,
+    "offline_data": null,
+    "owners_addresses": [
+      "stake1u9p7ldvwtm608p9jg6xarv76pu232zxu2fw68k7g7mvfr0qru67nh",
+      "stake1u9x5lv9f7g43nuxw9s5cp392n054tuwejyvq4yd0haw7ads9ypx46"
+    ],
+    "pledge": 50000000000,
+    "pool_hash_bech32": "pool18gys2arurr8su3qssvh7vjcn42k5clgrvdxah8mxcg5xquvfu8p",
+    "pool_hash_hex": "3a0905747c18cf0e4410832fe64b13aaad4c7d03634ddb9f66c22860",
+    "relays": [
+      {
+        "dns_name": "relay2.broekhuijse.net",
+        "dns_srv_name": null,
+        "ipv4": null,
+        "ipv6": null,
+        "port": 3021
+      }
+    ],
+    "reward_addr_hash_hex": "e1b8b85b5988ed10223b9f179db5650bb91fa73ace98852cfc4fbeb604",
+    "vrf_key_hash_hex": "3fb99e238977460b474d91a9ca35f35c912fee4adc9dad4c7f05327deba4449f"
+  },
+  {
+    "active_epoch_no": 228,
+    "cert_index": 2,
+    "fixed_cost": 340000000,
+    "margin": 0.01,
+    "offline_data": null,
+    "owners_addresses": [
+      "stake1u9p7ldvwtm608p9jg6xarv76pu232zxu2fw68k7g7mvfr0qru67nh",
+      "stake1u9x5lv9f7g43nuxw9s5cp392n054tuwejyvq4yd0haw7ads9ypx46"
+    ],
+    "pledge": 50000000000,
+    "pool_hash_bech32": "pool18gys2arurr8su3qssvh7vjcn42k5clgrvdxah8mxcg5xquvfu8p",
+    "pool_hash_hex": "3a0905747c18cf0e4410832fe64b13aaad4c7d03634ddb9f66c22860",
+    "relays": [
+      {
+        "dns_name": "relay3.broekhuijse.net",
+        "dns_srv_name": null,
+        "ipv4": null,
+        "ipv6": null,
+        "port": 3011
+      }
+    ],
+    "reward_addr_hash_hex": "e1b8b85b5988ed10223b9f179db5650bb91fa73ace98852cfc4fbeb604",
+    "vrf_key_hash_hex": "3fb99e238977460b474d91a9ca35f35c912fee4adc9dad4c7f05327deba4449f"
+  },
+  {
+    "active_epoch_no": 228,
+    "cert_index": 3,
+    "fixed_cost": 340000000,
+    "margin": 0.01,
+    "offline_data": null,
+    "owners_addresses": [
+      "stake1u9p7ldvwtm608p9jg6xarv76pu232zxu2fw68k7g7mvfr0qru67nh",
+      "stake1u9x5lv9f7g43nuxw9s5cp392n054tuwejyvq4yd0haw7ads9ypx46"
+    ],
+    "pledge": 50000000000,
+    "pool_hash_bech32": "pool18gys2arurr8su3qssvh7vjcn42k5clgrvdxah8mxcg5xquvfu8p",
+    "pool_hash_hex": "3a0905747c18cf0e4410832fe64b13aaad4c7d03634ddb9f66c22860",
+    "relays": [
+      {
+        "dns_name": "relay4.broekhuijse.net",
+        "dns_srv_name": null,
+        "ipv4": null,
+        "ipv6": null,
+        "port": 3021
+      }
+    ],
+    "reward_addr_hash_hex": "e1b8b85b5988ed10223b9f179db5650bb91fa73ace98852cfc4fbeb604",
+    "vrf_key_hash_hex": "3fb99e238977460b474d91a9ca35f35c912fee4adc9dad4c7f05327deba4449f"
+  }
+]

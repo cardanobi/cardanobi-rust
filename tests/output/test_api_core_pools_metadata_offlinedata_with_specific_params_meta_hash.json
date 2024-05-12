@@ -1,0 +1,12 @@
+[
+  {
+    "bytes": "ewogICAgIm5hbWUiOiAiQURBIENhcGl0YWwiLAogICAgImRlc2NyaXB0aW9uIjogIkFEQSBDYXBpdGFsIC0gTWFpbm5ldCBQb29sIiwKICAgICJ0aWNrZXIiOiAiQURBQ1QiLAogICAgImhvbWVwYWdlIjogImh0dHBzOi8vYWRhY2FwaXRhbC5pbyIsCiAgICAiZXh0ZW5kZWQiOiAiaHR0cHM6Ly9hZGFjYXBpdGFsLmlvL2FkYWN0X2V4dGVuZGVkLmpzb24iCn0=",
+    "hash": "QncbBbMPGAiQmAYTsxR/a7eX/h+Kg+ktOaMTXslVnqg=",
+    "hash_hex": "42771b05b30f180890980613b3147f6bb797fe1f8a83e92d39a3135ec9559ea8",
+    "id": 42582,
+    "json": "{\"name\": \"ADA Capital\", \"ticker\": \"ADACT\", \"homepage\": \"https://adacapital.io\", \"description\": \"ADA Capital - Mainnet Pool\"}",
+    "pmr_id": 28640,
+    "pool_id": 4268,
+    "ticker_name": "ADACT"
+  }
+]

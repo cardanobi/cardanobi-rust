@@ -1,0 +1,802 @@
+[
+  {
+    "block_count": 0,
+    "delegated_stakes": 10003622270,
+    "delegator_count": 1,
+    "epoch_no": 291,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 10003622270,
+    "delegator_count": 1,
+    "epoch_no": 292,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 10977199613,
+    "delegator_count": 2,
+    "epoch_no": 293,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 10977199613,
+    "delegator_count": 2,
+    "epoch_no": 294,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 10977199613,
+    "delegator_count": 2,
+    "epoch_no": 295,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 10977199613,
+    "delegator_count": 2,
+    "epoch_no": 296,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 21573596332,
+    "delegator_count": 4,
+    "epoch_no": 297,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 21580374919,
+    "delegator_count": 4,
+    "epoch_no": 298,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 21773759038,
+    "delegator_count": 5,
+    "epoch_no": 299,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 21774260324,
+    "delegator_count": 5,
+    "epoch_no": 300,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 21774260324,
+    "delegator_count": 5,
+    "epoch_no": 301,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 21774602815,
+    "delegator_count": 5,
+    "epoch_no": 302,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 75327330908,
+    "delegator_count": 6,
+    "epoch_no": 303,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 75327679449,
+    "delegator_count": 6,
+    "epoch_no": 304,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 76968425577,
+    "delegator_count": 7,
+    "epoch_no": 305,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 82317449472,
+    "delegator_count": 7,
+    "epoch_no": 306,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 78986479615,
+    "delegator_count": 7,
+    "epoch_no": 307,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 78986479615,
+    "delegator_count": 7,
+    "epoch_no": 308,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 73986303378,
+    "delegator_count": 7,
+    "epoch_no": 309,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 73986303378,
+    "delegator_count": 7,
+    "epoch_no": 310,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 73986303378,
+    "delegator_count": 7,
+    "epoch_no": 311,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 73986303378,
+    "delegator_count": 7,
+    "epoch_no": 312,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 73986303378,
+    "delegator_count": 7,
+    "epoch_no": 313,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 78017845509,
+    "delegator_count": 9,
+    "epoch_no": 314,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 77810019810,
+    "delegator_count": 8,
+    "epoch_no": 315,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 77809823641,
+    "delegator_count": 8,
+    "epoch_no": 316,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 77809627472,
+    "delegator_count": 8,
+    "epoch_no": 317,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 77809627472,
+    "delegator_count": 8,
+    "epoch_no": 318,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 77809627472,
+    "delegator_count": 8,
+    "epoch_no": 319,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 77809627472,
+    "delegator_count": 8,
+    "epoch_no": 320,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 77809627472,
+    "delegator_count": 8,
+    "epoch_no": 321,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 77809627472,
+    "delegator_count": 8,
+    "epoch_no": 322,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 87926406891,
+    "delegator_count": 9,
+    "epoch_no": 323,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 87931079503,
+    "delegator_count": 9,
+    "epoch_no": 324,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 88931899146,
+    "delegator_count": 10,
+    "epoch_no": 325,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 88931899146,
+    "delegator_count": 10,
+    "epoch_no": 326,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 88931899146,
+    "delegator_count": 10,
+    "epoch_no": 327,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 88931899146,
+    "delegator_count": 10,
+    "epoch_no": 328,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 88931899146,
+    "delegator_count": 10,
+    "epoch_no": 329,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 88931899146,
+    "delegator_count": 10,
+    "epoch_no": 330,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 88931189710,
+    "delegator_count": 10,
+    "epoch_no": 331,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 88931189710,
+    "delegator_count": 10,
+    "epoch_no": 332,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 89051104767,
+    "delegator_count": 11,
+    "epoch_no": 333,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 89051104767,
+    "delegator_count": 11,
+    "epoch_no": 334,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 89051104767,
+    "delegator_count": 11,
+    "epoch_no": 335,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 11,
+    "delegated_stakes": 15085721176151,
+    "delegator_count": 13,
+    "epoch_no": 336,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 283
+  },
+  {
+    "block_count": 17,
+    "delegated_stakes": 15091949132464,
+    "delegator_count": 13,
+    "epoch_no": 337,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 466
+  },
+  {
+    "block_count": 16,
+    "delegated_stakes": 15098702106202,
+    "delegator_count": 14,
+    "epoch_no": 338,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 360
+  },
+  {
+    "block_count": 19,
+    "delegated_stakes": 15106912818646,
+    "delegator_count": 14,
+    "epoch_no": 339,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 321
+  },
+  {
+    "block_count": 9,
+    "delegated_stakes": 15119617953046,
+    "delegator_count": 14,
+    "epoch_no": 340,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 166
+  },
+  {
+    "block_count": 6,
+    "delegated_stakes": 15130107819465,
+    "delegator_count": 14,
+    "epoch_no": 341,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 114
+  },
+  {
+    "block_count": 10,
+    "delegated_stakes": 15142416156753,
+    "delegator_count": 14,
+    "epoch_no": 342,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 229
+  },
+  {
+    "block_count": 8,
+    "delegated_stakes": 15148198714180,
+    "delegator_count": 14,
+    "epoch_no": 343,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 150
+  },
+  {
+    "block_count": 15,
+    "delegated_stakes": 14955236173699,
+    "delegator_count": 14,
+    "epoch_no": 344,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 266
+  },
+  {
+    "block_count": 18,
+    "delegated_stakes": 14961660015910,
+    "delegator_count": 14,
+    "epoch_no": 345,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 251
+  },
+  {
+    "block_count": 14,
+    "delegated_stakes": 14980142868046,
+    "delegator_count": 14,
+    "epoch_no": 346,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 305
+  },
+  {
+    "block_count": 16,
+    "delegated_stakes": 14989701564085,
+    "delegator_count": 14,
+    "epoch_no": 347,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 370
+  },
+  {
+    "block_count": 10,
+    "delegated_stakes": 15001173663463,
+    "delegator_count": 14,
+    "epoch_no": 348,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 172
+  },
+  {
+    "block_count": 15,
+    "delegated_stakes": 15010058364036,
+    "delegator_count": 14,
+    "epoch_no": 349,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 271
+  },
+  {
+    "block_count": 11,
+    "delegated_stakes": 15020206223381,
+    "delegator_count": 14,
+    "epoch_no": 350,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 120
+  },
+  {
+    "block_count": 17,
+    "delegated_stakes": 15026533969215,
+    "delegator_count": 14,
+    "epoch_no": 351,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 265
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 134953747189,
+    "delegator_count": 13,
+    "epoch_no": 352,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 134320711083,
+    "delegator_count": 11,
+    "epoch_no": 353,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 134742555225,
+    "delegator_count": 11,
+    "epoch_no": 354,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 1,
+    "delegated_stakes": 134742555225,
+    "delegator_count": 11,
+    "epoch_no": 355,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 134742555225,
+    "delegator_count": 11,
+    "epoch_no": 356,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 146030948739,
+    "delegator_count": 12,
+    "epoch_no": 357,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 146627800113,
+    "delegator_count": 11,
+    "epoch_no": 358,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 146627800113,
+    "delegator_count": 11,
+    "epoch_no": 359,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 1,
+    "delegated_stakes": 146627800113,
+    "delegator_count": 11,
+    "epoch_no": 360,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 3
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 149423309064,
+    "delegator_count": 12,
+    "epoch_no": 361,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 1,
+    "delegated_stakes": 147300892537,
+    "delegator_count": 12,
+    "epoch_no": 362,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 21
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 147914856290,
+    "delegator_count": 12,
+    "epoch_no": 363,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 159813319959,
+    "delegator_count": 12,
+    "epoch_no": 364,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 160426105038,
+    "delegator_count": 12,
+    "epoch_no": 365,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 159751621931,
+    "delegator_count": 11,
+    "epoch_no": 366,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 159726638228,
+    "delegator_count": 11,
+    "epoch_no": 367,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 218799615111,
+    "delegator_count": 12,
+    "epoch_no": 368,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 219158740285,
+    "delegator_count": 13,
+    "epoch_no": 369,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 234052784725,
+    "delegator_count": 13,
+    "epoch_no": 370,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 1,
+    "delegated_stakes": 239228315690,
+    "delegator_count": 13,
+    "epoch_no": 371,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 14
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 238654564821,
+    "delegator_count": 12,
+    "epoch_no": 372,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 1,
+    "delegated_stakes": 238658080235,
+    "delegator_count": 13,
+    "epoch_no": 373,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 58
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 243883662705,
+    "delegator_count": 13,
+    "epoch_no": 374,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 244909083102,
+    "delegator_count": 12,
+    "epoch_no": 375,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 250838022905,
+    "delegator_count": 12,
+    "epoch_no": 376,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 269592612868,
+    "delegator_count": 12,
+    "epoch_no": 377,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 194075007366,
+    "delegator_count": 12,
+    "epoch_no": 378,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 1,
+    "delegated_stakes": 194075007366,
+    "delegator_count": 12,
+    "epoch_no": 379,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 13
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 194075007366,
+    "delegator_count": 12,
+    "epoch_no": 380,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 2,
+    "delegated_stakes": 194075007366,
+    "delegator_count": 12,
+    "epoch_no": 381,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 21
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 194671248723,
+    "delegator_count": 12,
+    "epoch_no": 382,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 194671248723,
+    "delegator_count": 12,
+    "epoch_no": 383,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 195860162255,
+    "delegator_count": 12,
+    "epoch_no": 384,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 201996967961,
+    "delegator_count": 14,
+    "epoch_no": 385,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 215246109917,
+    "delegator_count": 16,
+    "epoch_no": 386,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 1,
+    "delegated_stakes": 205247317619,
+    "delegator_count": 16,
+    "epoch_no": 387,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 40
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 207036420714,
+    "delegator_count": 17,
+    "epoch_no": 388,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 207959392125,
+    "delegator_count": 17,
+    "epoch_no": 389,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  },
+  {
+    "block_count": 0,
+    "delegated_stakes": 209944176598,
+    "delegator_count": 17,
+    "epoch_no": 390,
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count": 0
+  }
+]

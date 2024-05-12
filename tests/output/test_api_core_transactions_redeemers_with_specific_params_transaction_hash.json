@@ -1,0 +1,189 @@
+[
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 4737,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 1,
+    "purpose": "spend",
+    "script_hash_hex": "da11a50969a7f77225a9e9e2c86e43d391a69dd47f339a4fd830d165",
+    "unit_mem": 54224,
+    "unit_steps": 22301057
+  },
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 4737,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 2,
+    "purpose": "spend",
+    "script_hash_hex": "da11a50969a7f77225a9e9e2c86e43d391a69dd47f339a4fd830d165",
+    "unit_mem": 54224,
+    "unit_steps": 22301057
+  },
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 4737,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 3,
+    "purpose": "spend",
+    "script_hash_hex": "da11a50969a7f77225a9e9e2c86e43d391a69dd47f339a4fd830d165",
+    "unit_mem": 54224,
+    "unit_steps": 22301057
+  },
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 4737,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 4,
+    "purpose": "spend",
+    "script_hash_hex": "da11a50969a7f77225a9e9e2c86e43d391a69dd47f339a4fd830d165",
+    "unit_mem": 54224,
+    "unit_steps": 22301057
+  },
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 4737,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 5,
+    "purpose": "spend",
+    "script_hash_hex": "da11a50969a7f77225a9e9e2c86e43d391a69dd47f339a4fd830d165",
+    "unit_mem": 54224,
+    "unit_steps": 22301057
+  },
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 4737,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 6,
+    "purpose": "spend",
+    "script_hash_hex": "da11a50969a7f77225a9e9e2c86e43d391a69dd47f339a4fd830d165",
+    "unit_mem": 54224,
+    "unit_steps": 22301057
+  },
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 4737,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 7,
+    "purpose": "spend",
+    "script_hash_hex": "da11a50969a7f77225a9e9e2c86e43d391a69dd47f339a4fd830d165",
+    "unit_mem": 54224,
+    "unit_steps": 22301057
+  },
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 4737,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 8,
+    "purpose": "spend",
+    "script_hash_hex": "da11a50969a7f77225a9e9e2c86e43d391a69dd47f339a4fd830d165",
+    "unit_mem": 54224,
+    "unit_steps": 22301057
+  },
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 4737,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 9,
+    "purpose": "spend",
+    "script_hash_hex": "da11a50969a7f77225a9e9e2c86e43d391a69dd47f339a4fd830d165",
+    "unit_mem": 54224,
+    "unit_steps": 22301057
+  },
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 4737,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 10,
+    "purpose": "spend",
+    "script_hash_hex": "da11a50969a7f77225a9e9e2c86e43d391a69dd47f339a4fd830d165",
+    "unit_mem": 54224,
+    "unit_steps": 22301057
+  },
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 4737,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 11,
+    "purpose": "spend",
+    "script_hash_hex": "da11a50969a7f77225a9e9e2c86e43d391a69dd47f339a4fd830d165",
+    "unit_mem": 54224,
+    "unit_steps": 22301057
+  },
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 4737,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 12,
+    "purpose": "spend",
+    "script_hash_hex": "da11a50969a7f77225a9e9e2c86e43d391a69dd47f339a4fd830d165",
+    "unit_mem": 54224,
+    "unit_steps": 22301057
+  },
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 4737,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 13,
+    "purpose": "spend",
+    "script_hash_hex": "da11a50969a7f77225a9e9e2c86e43d391a69dd47f339a4fd830d165",
+    "unit_mem": 54224,
+    "unit_steps": 22301057
+  },
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 4737,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 14,
+    "purpose": "spend",
+    "script_hash_hex": "da11a50969a7f77225a9e9e2c86e43d391a69dd47f339a4fd830d165",
+    "unit_mem": 54224,
+    "unit_steps": 22301057
+  },
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 4737,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 15,
+    "purpose": "spend",
+    "script_hash_hex": "da11a50969a7f77225a9e9e2c86e43d391a69dd47f339a4fd830d165",
+    "unit_mem": 54224,
+    "unit_steps": 22301057
+  },
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 4737,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 16,
+    "purpose": "spend",
+    "script_hash_hex": "da11a50969a7f77225a9e9e2c86e43d391a69dd47f339a4fd830d165",
+    "unit_mem": 54224,
+    "unit_steps": 22301057
+  },
+  {
+    "data_cbor": "d87980",
+    "data_json": "{\"fields\": [], \"constructor\": 0}",
+    "fee": 162859,
+    "hash_hex": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+    "index": 0,
+    "purpose": "spend",
+    "script_hash_hex": "5d211d7259fc8fb6eae43875d369cd676dfe680c5fd89fd73c0b5491",
+    "unit_mem": 1795845,
+    "unit_steps": 821612537
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "amount": 344553843,
+    "earned_epoch": 336,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 338,
+    "type": "leader"
+  },
+  {
+    "amount": 347130826,
+    "earned_epoch": 337,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 339,
+    "type": "leader"
+  },
+  {
+    "amount": 346641569,
+    "earned_epoch": 338,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 340,
+    "type": "leader"
+  },
+  {
+    "amount": 348197113,
+    "earned_epoch": 339,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 341,
+    "type": "leader"
+  },
+  {
+    "amount": 343837765,
+    "earned_epoch": 340,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 342,
+    "type": "leader"
+  },
+  {
+    "amount": 342560048,
+    "earned_epoch": 341,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 343,
+    "type": "leader"
+  },
+  {
+    "amount": 344576037,
+    "earned_epoch": 342,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 344,
+    "type": "leader"
+  },
+  {
+    "amount": 343687556,
+    "earned_epoch": 343,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 345,
+    "type": "leader"
+  },
+  {
+    "amount": 347443851,
+    "earned_epoch": 344,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 346,
+    "type": "leader"
+  },
+  {
+    "amount": 349240191,
+    "earned_epoch": 345,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 347,
+    "type": "leader"
+  },
+  {
+    "amount": 347280733,
+    "earned_epoch": 346,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 348,
+    "type": "leader"
+  },
+  {
+    "amount": 348579046,
+    "earned_epoch": 347,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 349,
+    "type": "leader"
+  },
+  {
+    "amount": 345372943,
+    "earned_epoch": 348,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 350,
+    "type": "leader"
+  },
+  {
+    "amount": 348314304,
+    "earned_epoch": 349,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 351,
+    "type": "leader"
+  },
+  {
+    "amount": 346145911,
+    "earned_epoch": 350,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 352,
+    "type": "leader"
+  },
+  {
+    "amount": 349894476,
+    "earned_epoch": 351,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 353,
+    "type": "leader"
+  },
+  {
+    "amount": 372156276,
+    "earned_epoch": 355,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 357,
+    "type": "leader"
+  },
+  {
+    "amount": 369727220,
+    "earned_epoch": 360,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 362,
+    "type": "leader"
+  },
+  {
+    "amount": 369479585,
+    "earned_epoch": 362,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 364,
+    "type": "leader"
+  },
+  {
+    "amount": 358796738,
+    "earned_epoch": 371,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 373,
+    "type": "leader"
+  },
+  {
+    "amount": 358571856,
+    "earned_epoch": 373,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 375,
+    "type": "leader"
+  },
+  {
+    "amount": 362940615,
+    "earned_epoch": 379,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 381,
+    "type": "leader"
+  },
+  {
+    "amount": 416000996,
+    "earned_epoch": 381,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 383,
+    "type": "leader"
+  },
+  {
+    "amount": 362438002,
+    "earned_epoch": 387,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 389,
+    "type": "leader"
+  },
+  {
+    "amount": 391777879,
+    "earned_epoch": 392,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 394,
+    "type": "leader"
+  },
+  {
+    "amount": 595625679,
+    "earned_epoch": 393,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 395,
+    "type": "leader"
+  },
+  {
+    "amount": 676170350,
+    "earned_epoch": 394,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 396,
+    "type": "leader"
+  },
+  {
+    "amount": 645068772,
+    "earned_epoch": 395,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 397,
+    "type": "leader"
+  },
+  {
+    "amount": 806867853,
+    "earned_epoch": 396,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 398,
+    "type": "leader"
+  },
+  {
+    "amount": 538372007,
+    "earned_epoch": 397,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 399,
+    "type": "leader"
+  },
+  {
+    "amount": 697864506,
+    "earned_epoch": 398,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 400,
+    "type": "leader"
+  },
+  {
+    "amount": 561698080,
+    "earned_epoch": 399,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 401,
+    "type": "leader"
+  },
+  {
+    "amount": 637776164,
+    "earned_epoch": 400,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 402,
+    "type": "leader"
+  },
+  {
+    "amount": 532017163,
+    "earned_epoch": 401,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 403,
+    "type": "leader"
+  },
+  {
+    "amount": 661359839,
+    "earned_epoch": 402,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 404,
+    "type": "leader"
+  },
+  {
+    "amount": 711942797,
+    "earned_epoch": 403,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 405,
+    "type": "leader"
+  },
+  {
+    "amount": 580010654,
+    "earned_epoch": 404,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 406,
+    "type": "leader"
+  },
+  {
+    "amount": 861054595,
+    "earned_epoch": 405,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 407,
+    "type": "leader"
+  },
+  {
+    "amount": 749310947,
+    "earned_epoch": 406,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 408,
+    "type": "leader"
+  },
+  {
+    "amount": 648061431,
+    "earned_epoch": 407,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 409,
+    "type": "leader"
+  },
+  {
+    "amount": 722561616,
+    "earned_epoch": 408,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 410,
+    "type": "leader"
+  },
+  {
+    "amount": 400512760,
+    "earned_epoch": 417,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 419,
+    "type": "leader"
+  },
+  {
+    "amount": 413225602,
+    "earned_epoch": 418,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 420,
+    "type": "leader"
+  },
+  {
+    "amount": 683411512,
+    "earned_epoch": 421,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 423,
+    "type": "leader"
+  },
+  {
+    "amount": 420260139,
+    "earned_epoch": 424,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 426,
+    "type": "leader"
+  },
+  {
+    "amount": 830993522,
+    "earned_epoch": 426,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 428,
+    "type": "leader"
+  },
+  {
+    "amount": 712240581,
+    "earned_epoch": 427,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 429,
+    "type": "leader"
+  },
+  {
+    "amount": 803971295,
+    "earned_epoch": 428,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 430,
+    "type": "leader"
+  },
+  {
+    "amount": 712064334,
+    "earned_epoch": 429,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 431,
+    "type": "leader"
+  },
+  {
+    "amount": 711417274,
+    "earned_epoch": 430,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 432,
+    "type": "leader"
+  },
+  {
+    "amount": 664532290,
+    "earned_epoch": 431,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 433,
+    "type": "leader"
+  },
+  {
+    "amount": 550686896,
+    "earned_epoch": 432,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 434,
+    "type": "leader"
+  },
+  {
+    "amount": 663513115,
+    "earned_epoch": 433,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 435,
+    "type": "leader"
+  },
+  {
+    "amount": 638177464,
+    "earned_epoch": 434,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 436,
+    "type": "leader"
+  },
+  {
+    "amount": 814351102,
+    "earned_epoch": 435,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 437,
+    "type": "leader"
+  },
+  {
+    "amount": 682262459,
+    "earned_epoch": 436,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 438,
+    "type": "leader"
+  },
+  {
+    "amount": 637297852,
+    "earned_epoch": 437,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 439,
+    "type": "leader"
+  },
+  {
+    "amount": 592608007,
+    "earned_epoch": 438,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 440,
+    "type": "leader"
+  },
+  {
+    "amount": 592862016,
+    "earned_epoch": 439,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 441,
+    "type": "leader"
+  },
+  {
+    "amount": 544447664,
+    "earned_epoch": 440,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 442,
+    "type": "leader"
+  },
+  {
+    "amount": 615744042,
+    "earned_epoch": 441,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 443,
+    "type": "leader"
+  },
+  {
+    "amount": 660798833,
+    "earned_epoch": 442,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 444,
+    "type": "leader"
+  },
+  {
+    "amount": 661179695,
+    "earned_epoch": 443,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 445,
+    "type": "leader"
+  },
+  {
+    "amount": 661469824,
+    "earned_epoch": 444,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 446,
+    "type": "leader"
+  },
+  {
+    "amount": 526417635,
+    "earned_epoch": 445,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 447,
+    "type": "leader"
+  },
+  {
+    "amount": 571073810,
+    "earned_epoch": 446,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 448,
+    "type": "leader"
+  },
+  {
+    "amount": 428672782,
+    "earned_epoch": 448,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 450,
+    "type": "leader"
+  },
+  {
+    "amount": 359431627,
+    "earned_epoch": 449,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 451,
+    "type": "leader"
+  },
+  {
+    "amount": 440684846,
+    "earned_epoch": 451,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 453,
+    "type": "leader"
+  },
+  {
+    "amount": 445149312,
+    "earned_epoch": 452,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 454,
+    "type": "leader"
+  },
+  {
+    "amount": 446141585,
+    "earned_epoch": 453,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 455,
+    "type": "leader"
+  },
+  {
+    "amount": 447357904,
+    "earned_epoch": 454,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 456,
+    "type": "leader"
+  },
+  {
+    "amount": 361617878,
+    "earned_epoch": 455,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 457,
+    "type": "leader"
+  },
+  {
+    "amount": 361006526,
+    "earned_epoch": 458,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 460,
+    "type": "leader"
+  },
+  {
+    "amount": 523127480,
+    "earned_epoch": 459,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 461,
+    "type": "leader"
+  },
+  {
+    "amount": 370625980,
+    "earned_epoch": 461,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 463,
+    "type": "leader"
+  },
+  {
+    "amount": 373772648,
+    "earned_epoch": 462,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 464,
+    "type": "leader"
+  },
+  {
+    "amount": 373471021,
+    "earned_epoch": 463,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 465,
+    "type": "leader"
+  },
+  {
+    "amount": 375198766,
+    "earned_epoch": 468,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 470,
+    "type": "leader"
+  },
+  {
+    "amount": 523918209,
+    "earned_epoch": 476,
+    "pool_id_hex": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "spendable_epoch": 478,
+    "type": "leader"
+  }
+]

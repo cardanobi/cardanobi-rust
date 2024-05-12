@@ -1,0 +1,602 @@
+[
+  {
+    "fingerprint": "asset105nh988tzzzk3duk6relug69td98ja3nl3uv2c",
+    "name": "NEWM",
+    "policy_hex": "682fe60c9918842b3323c43b5144bc3d52a23bd2fb81345560d73f63",
+    "quantity": 100000000
+  },
+  {
+    "fingerprint": "asset107dej0nnq6c7n5hfj73d762zwjqhgz59a6y9et",
+    "name": "517",
+    "policy_hex": "aafd0fd4cde4bdd9e7e137b27911b559c9fb0d665d8512e000f58b26",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset108xu02ckwrfc8qs9d97mgyh4kn8gdu9w8f5sxk",
+    "name": "SNEK",
+    "policy_hex": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f",
+    "quantity": 296879
+  },
+  {
+    "fingerprint": "asset10epjjymkqgd4j6n2danxxjq0kw8tnslf7cfqs2",
+    "name": "FlueFrog49",
+    "policy_hex": "581571312a84c8d74ddc00056cb8fc0459a8c5874ab84acd63cf4d76",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset10zed3u3s4gt0xyxx8u2jpjs8r64haw99ry4qqu",
+    "name": "cNc21LPACornNfriends1559",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset12l093hdgcg8hh5g2m6vq32g8tuf5v66hyjg3u8",
+    "name": "aquaLQ",
+    "policy_hex": "7eba79497ecd4952608c18e097e0867c9cdc922ffbd9add1dc95d81c",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset12szz73p2qs472lg5m60z3n5jf75dl30tgupvct",
+    "name": "cNc21LPARonin2134",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset13ld64lsa4xrwk8ws7kjhtwzyefpag0p88gw6jp",
+    "name": "GERO",
+    "policy_hex": "10a49b996e2402269af553a8a96fb8eb90d79e9eca79e2b4223057b6",
+    "quantity": 40000000
+  },
+  {
+    "fingerprint": "asset13xc4qgxwu7s997jwwvu2kvd643xr27amjh9yt5",
+    "name": "DEAD",
+    "policy_hex": "6194158d24d71eca5cc5601c45de123bf78d02c297e851be2608810a",
+    "quantity": 20
+  },
+  {
+    "fingerprint": "asset148nvuwf94l04r69czdr486d7eggdvzgrsyacla",
+    "name": "FlueFrog16",
+    "policy_hex": "581571312a84c8d74ddc00056cb8fc0459a8c5874ab84acd63cf4d76",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset14c9w9gns3zdvc59vm9z7rvs5ycztacjgrgw4se",
+    "name": "cNc21LPAMUSES0658",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset14k7xd26ha2x04vl80nzxymka3hvfmcu8zh7vd4",
+    "name": "AFailedArtistTicket",
+    "policy_hex": "744bf73f475575c30145dbe8901853e63dd9cd6d1e340fd55d8b41bb",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset14mfmyzlgwcl0yfh5ade6lysjxej3t5px2uygsu",
+    "name": "FlueFrog00115",
+    "policy_hex": "581571312a84c8d74ddc00056cb8fc0459a8c5874ab84acd63cf4d76",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset14uxt76uutq0yu89uq6p3yzjz3et7cccft90kh5",
+    "name": "GameofLife99",
+    "policy_hex": "49f16a625da54c91bfb213e21dc334d65645e1b72e5749c862fe8787",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset14yqf3pclzx88jjahydyfad8pxw5xhuca6j7k2p",
+    "name": "DRIP",
+    "policy_hex": "af2e27f580f7f08e93190a81f72462f153026d06450924726645891b",
+    "quantity": 5870988221
+  },
+  {
+    "fingerprint": "asset155nxgqj5acff7fdhc8ranfwyl7nq4ljrks7l6w",
+    "name": "STRIP",
+    "policy_hex": "6954264b15bc92d6d592febeac84f14645e1ed46ca5ebb9acdb5c15f",
+    "quantity": 44000
+  },
+  {
+    "fingerprint": "asset15ah9p5z852y3cnptwe8drc8lm885vl4gjg7xw7",
+    "name": "cNc21LPAAdaDolls0287",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset15mrtrz2c78fuccy85syzzpq2q7w766nyaw5a0d",
+    "name": "MELD",
+    "policy_hex": "a2944573e99d2ed3055b808eaa264f0bf119e01fc6b18863067c63e4",
+    "quantity": 5000000000
+  },
+  {
+    "fingerprint": "asset15t8fhc6t9cp5d0tq554sqzy5dd2tcnz45g98q8",
+    "name": "FIRE",
+    "policy_hex": "a4da8764a57e66a0085b5bfcde96c89b798d92ee83a75f59237e375b",
+    "quantity": 300
+  },
+  {
+    "fingerprint": "asset15xwu83smwtrq9dvysaxaph7scr64jgth5cucvd",
+    "name": "uglybro4",
+    "policy_hex": "12f9d9446c422caa870948bae1b8844c26c64958943a3954103b034f",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset164excpf4x2fnanjr6egtzuywex8nk8v098rfjp",
+    "name": "cNc21LPADracano1791",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset16azkms8vhfq696ydsmgklwe88qn5n5tffmk7kh",
+    "name": "507",
+    "policy_hex": "aafd0fd4cde4bdd9e7e137b27911b559c9fb0d665d8512e000f58b26",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset16cyu72nr8g6w4vcrryzpgdvwrdr95dzcdm7sag",
+    "name": "cNc21LPANiftyTeddy1329",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset16ta3lp2yenfyct85l6wnfdek2uecle76dfj5h9",
+    "name": "NIDO",
+    "policy_hex": "443726318f7a3995686a79f65ed48fdb79aaf576aecaee354d8ba018",
+    "quantity": 50
+  },
+  {
+    "fingerprint": "asset16y4aq2caqym29fsfgrx9al5yw9rcgwquznue5c",
+    "name": "cNc21LPAChadiNassar0683",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset16ya23a5hagzpj680mwx9g86m85zen4nk0lavhu",
+    "name": "912",
+    "policy_hex": "46c5ac28af76be79a1de47815d3d36599d56d8c366cb99d5828c3553",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset17kqdq4x8e4fmndpra2qdzram65scczesfzln5a",
+    "name": "LovadaArt75",
+    "policy_hex": "a14a45d1f47b9a735cd6d0ebe4a6190c2eaf53eaa02473463d3c040c",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset17q7r59zlc3dgw0venc80pdv566q6yguw03f0d9",
+    "name": "HOSKY",
+    "policy_hex": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235",
+    "quantity": 34000000
+  },
+  {
+    "fingerprint": "asset17tj2rc55u8njka8qskzduqy0pyhkad690jcnd4",
+    "name": "cNc21LPASweetfellas2463",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset182gl0y70vjp8rl48tfsqgtuqzma9q8gqumxlaj",
+    "name": "OfficialSomeHowSomeWay",
+    "policy_hex": "de347c5696c8bfabffbce8669f2a404d7453c7fa78de7a553715f6f6",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset186pjd8xvpmmcc6j6aeyncp4vq880huqwc55xky",
+    "name": "500",
+    "policy_hex": "aafd0fd4cde4bdd9e7e137b27911b559c9fb0d665d8512e000f58b26",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset18d0e5aykqdek3dclxwtyxnn7y0qcx4lnrvdf4q",
+    "name": "AOWInktober0030",
+    "policy_hex": "d5e1f84e628a0731ff5ad8393847812cf257cf5fcba0804a6e3575d3",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset18de3sx2v4yuh35jcffkaw5kvq696uukn0pqlzc",
+    "name": "Cardabbean01328",
+    "policy_hex": "7cb6fbb296945e2c7c8b4bda24b90636bc15becf9c4d6c6eabb6447c",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset18e5qtksu8ke30lw4e8qcrfmh9avuaav3pdxhrs",
+    "name": "MotorcygirlsBikeKeys035",
+    "policy_hex": "aaa258b8601feb249e6bf908a96a01560c2679c7999572f507cb5577",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset18wmjfmm77ps5vvsv8pyse49npesu4u9v4jmec6",
+    "name": "cNc21LPAwithspaces2441",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset18zc0u9qsz9wdvmw8s85nxgaxltlnlxc4u6pvay",
+    "name": "520",
+    "policy_hex": "aafd0fd4cde4bdd9e7e137b27911b559c9fb0d665d8512e000f58b26",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset19x7ktaszmcfhl643cskd5f6wm697nd653xt593",
+    "name": "Vlad68",
+    "policy_hex": "be8e242b0419d87a15b23f037eff046796fc60c281dce89bb7966bc0",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1a7n93ql0kklvpaykv4l5h36xc7yk8rk5jl8z9w",
+    "name": "cNc21LPADEADPXLZ2139",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1a9cuq2f6ln053vn4g27wnv53suzrdfc2wtrk7w",
+    "name": "510",
+    "policy_hex": "aafd0fd4cde4bdd9e7e137b27911b559c9fb0d665d8512e000f58b26",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1adk8t4qgs62a2f0c2d9xm33ehmrqcyps7mtcgg",
+    "name": "511",
+    "policy_hex": "aafd0fd4cde4bdd9e7e137b27911b559c9fb0d665d8512e000f58b26",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1ax3ymxuf2ehd2erljgjtnxlg2kj0c0z3tucghp",
+    "name": "MELD Diamond Hand NFT #2357",
+    "policy_hex": "3b07e0f2a262fa1436df3c91e420d57ad9fd46aa04377ec80a05ee3f",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1ccq8urzz4sdneuqv5j2vatjejz8j5tcz72h9rq",
+    "name": "BANK",
+    "policy_hex": "2b28c81dbba6d67e4b5a997c6be1212cba9d60d33f82444ab8b1f218",
+    "quantity": 210000
+  },
+  {
+    "fingerprint": "asset1cghvkrnx72ps4u34cffl9qq0xrgvur7r8wrzft",
+    "name": "FlueFrog26",
+    "policy_hex": "581571312a84c8d74ddc00056cb8fc0459a8c5874ab84acd63cf4d76",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1cxuefpk27ydd3yaee3vjwrfzqpcua40tv3dfjr",
+    "name": "SWEET",
+    "policy_hex": "47959e79846b8bdcacb91f586408d97e2dff44f31a04f03902cba818",
+    "quantity": 1000
+  },
+  {
+    "fingerprint": "asset1d2j6mz50s6hh870wwcvl3vuhacsltv8e6e32lr",
+    "name": "509",
+    "policy_hex": "aafd0fd4cde4bdd9e7e137b27911b559c9fb0d665d8512e000f58b26",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1d488pe9p6d4z7864d86lvdpy5h4eypmgtw6vqw",
+    "name": "519",
+    "policy_hex": "aafd0fd4cde4bdd9e7e137b27911b559c9fb0d665d8512e000f58b26",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1d4eau4et7hs96scea8tlfy9r8t7g4xhmnspmyq",
+    "name": "OfficialStressesOfFear",
+    "policy_hex": "de347c5696c8bfabffbce8669f2a404d7453c7fa78de7a553715f6f6",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1d8dclay3ra49yvycjvvm2y4pdjh75e3hz4s0ua",
+    "name": "dgaf",
+    "policy_hex": "64c3ebd40ed377989aa3069a2936e07c6ce82df46688c473d9215206",
+    "quantity": 2940
+  },
+  {
+    "fingerprint": "asset1dk0nzw8tx2j0uw70petr0w4e84f7puce8sltsn",
+    "name": "FuckEveryonePass310",
+    "policy_hex": "084154ee75830cf626e07cb548d562598936dd3a6ee494f7cda6c528",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1dw9arslkalqacak9u5zs7rfmwvrjas3yqzgygn",
+    "name": "SickCity369",
+    "policy_hex": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a5",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1dzzrrkhm9ee0c5qsw8e6h7pay27xje6nsm3czx",
+    "name": "DRIPZ",
+    "policy_hex": "f2367fab40d79cc2412e63f0174fe8d722a3de4ea199e8e4c94db7e5",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1e57z4fsjcrsa0l5wrrxkk5n4q0w67sf2qcjc25",
+    "name": "GOKEY",
+    "policy_hex": "c7dcfa416c127f630b263c7e0fe0564430cfa9c56bba43e1a37c6915",
+    "quantity": 120
+  },
+  {
+    "fingerprint": "asset1ef7dgj9y7yl9ea25h3m6r58jnj09umnpn90p2g",
+    "name": "516",
+    "policy_hex": "aafd0fd4cde4bdd9e7e137b27911b559c9fb0d665d8512e000f58b26",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1efvs2ph93lxt9am406cduxm3gakgzff0rlc54f",
+    "name": "Cardabbean01105",
+    "policy_hex": "7cb6fbb296945e2c7c8b4bda24b90636bc15becf9c4d6c6eabb6447c",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1f43d6tx3seaf33vnhedxnqsllzpaq5wxvf9ar0",
+    "name": "SICK",
+    "policy_hex": "ad1c1ed3a0bb6f83630ef052a31b71ba3287bf4bafa8370758f14d31",
+    "quantity": 560000
+  },
+  {
+    "fingerprint": "asset1fgxmpczmpcl3cj5ry9tguxsx53ny6j3u3hxfrs",
+    "name": "uglybro17",
+    "policy_hex": "12f9d9446c422caa870948bae1b8844c26c64958943a3954103b034f",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1fn07r7p6spdup5y7jtpfu2e5ydwmq49ahshxsf",
+    "name": "hashstamp.io",
+    "policy_hex": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1g8sltv32h7mld6ygnp0aqd98ruzj7sf8jmsjty",
+    "name": "cNc21LPACrypties1644",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1gws2ysmvy4ux4mlf3sv0qa3dhknwfn0fncekws",
+    "name": "cNc21LPASushiBytes2242",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1hmayqzg5drlze5nn2q5uug684pgc949tgww6hv",
+    "name": "adosia",
+    "policy_hex": "5ad8deb64bfec21ad2d96e1270b5873d0c4d0f231b928b4c39eb2435",
+    "quantity": 6050000000
+  },
+  {
+    "fingerprint": "asset1hpnv6cq8n2za6ee0ywpwq0pr8zgrp5crs8q8yl",
+    "name": "aeoniumskyB16498",
+    "policy_hex": "c4895fbe3dd0b20f268d9dc1dc4802a488050bfae46f73e5d7118b8e",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1htngmh0guvn95vyxwu5rx9zmrstxr0klnzz42q",
+    "name": "uglybro2",
+    "policy_hex": "12f9d9446c422caa870948bae1b8844c26c64958943a3954103b034f",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1jgnm33lkhj90f4c724c4ght99a96qr9cnxv6h0",
+    "name": "10Pound",
+    "policy_hex": "eff570b927084b2e5dafae98b577a17fc86d4f28d75fdf0f914d5330",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1jq69p699algh0xcegy9qncz7llmsukzs6gvvkm",
+    "name": "FuckEveryonePass294",
+    "policy_hex": "084154ee75830cf626e07cb548d562598936dd3a6ee494f7cda6c528",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1jzkc5q3afje3vmpmhck4zaf7t7ama9f2qsh4sl",
+    "name": "rDGAF",
+    "policy_hex": "d5788db551ac33b4e5c0f8667f9a951bd4772ffdbd4cd8043aec2d7a",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1k74ccykjftz53x2n46yf59kzf8fy6tjuzrnh03",
+    "name": "cNc21LPAHerkimer2150",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1l4lkehsnx28xkm7hqkr89syjcasya0ehfn97tj",
+    "name": "UglyHoodie1",
+    "policy_hex": "f71b66a803e65f898e5b0bf0ab638f70f38fc2ffc2179736ab7847c2",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1lfgaqvt3jrw24upyjvqklj75jlqv5a6tlhp9vx",
+    "name": "OfficialNileCrocodile",
+    "policy_hex": "de347c5696c8bfabffbce8669f2a404d7453c7fa78de7a553715f6f6",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1ls5szdkaz49uened7kuuw2kalf0kfpmp0vdmwa",
+    "name": "aeoniumskyB15062",
+    "policy_hex": "c4895fbe3dd0b20f268d9dc1dc4802a488050bfae46f73e5d7118b8e",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1lur4e4jhsgrmfpvtru2tfrq2z5z5d8t5nr03vw",
+    "name": "Tokhun",
+    "policy_hex": "4247d5091db82330100904963ab8d0850976c80d3f1b927e052e07bd",
+    "quantity": 7
+  },
+  {
+    "fingerprint": "asset1lyas983z4trdgr063wu6tjkjclpkpdll6kcy5w",
+    "name": "SickCity370",
+    "policy_hex": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a5",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1nctvzzfutenhhmhfat9vmqfwuvmh3xy8eqgs8j",
+    "name": "BORGZ",
+    "policy_hex": "7f376e3d1cf52e6c4350a1a91c8f8d0f0b63baedd443999ebe8fe57a",
+    "quantity": 41491130
+  },
+  {
+    "fingerprint": "asset1nees0wk7x42lup0wlyxl6cx6xxvtdwjt8d24mr",
+    "name": "FlueFrog00192",
+    "policy_hex": "581571312a84c8d74ddc00056cb8fc0459a8c5874ab84acd63cf4d76",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1nfm2p243ttvz0znaeqrn7mtfse847myp3tct5n",
+    "name": "Pray4Haiti058",
+    "policy_hex": "96a0251690aa1447636be1f86bcfae314d7c2b59ca11fc2552696c55",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1nsfpwyhpkvh67ndmax9ff4xt0uha88sy6cp8cs",
+    "name": "CHEDDA",
+    "policy_hex": "2d7444cf9e317a12e3eb72bf424fd2a0c8fbafedf10e20bfdb4ad8ab",
+    "quantity": 100000
+  },
+  {
+    "fingerprint": "asset1p3l5hqew035v43d0fa2a73pfl23jp52k33azr6",
+    "name": "NFTN28UECPPuntaCardn",
+    "policy_hex": "d6abe209ac95dea85463f60ca2cbb1f96830a4af5794bdb343856555",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1p8p7nj7wr4nl4vpt2a7sr955yljlhlqw9sznkg",
+    "name": "chrz134",
+    "policy_hex": "4864e4cf3f7e7fd2318b3bb4a7060665278a47fc4a6216c55dcbbeb0",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1p93e3wnveyg5mxk4rfup2xseqnzy58yqdngjq0",
+    "name": "ADASPACEJUMP493",
+    "policy_hex": "37a370cf8e686fbb719c5628bb27ced93f87fe0b5a9a6b79abd31fe7",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1pkdepqslr0e7mqpzz5sr0qlps5plmj45mfs0sy",
+    "name": "NFTN312UECPPuntaCardon",
+    "policy_hex": "d6abe209ac95dea85463f60ca2cbb1f96830a4af5794bdb343856555",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1prvnk78ed4msvn3ql0ltgtedgtznweq2zs4t8l",
+    "name": "cNc21LPACypherkicks1521",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1pt235t54y9533wsqalkkwpryzk5stpdagztqkd",
+    "name": "otblock",
+    "policy_hex": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1pvxz4ew2wlvm49vzgltcj6p6msjz4q69hs7wgt",
+    "name": "cNc21LPARugpull0485",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1q9n745va5ejcj5rjh26h3s96x4arevnwx2v3yn",
+    "name": "UglyHoodie48",
+    "policy_hex": "f71b66a803e65f898e5b0bf0ab638f70f38fc2ffc2179736ab7847c2",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1qzvmxtdls8tg7gy4xt2e0m5lc53d2ckjvgw6va",
+    "name": "rSNEK",
+    "policy_hex": "9d244ae71a36421fd953a64aba4dbc1bdbf955f93515c071520d82bb",
+    "quantity": 1200000
+  },
+  {
+    "fingerprint": "asset1r9krmv0kym3du063wy74q6nx55nzh22njpnctc",
+    "name": "NFTN11UECPPuntaCarbn",
+    "policy_hex": "d6abe209ac95dea85463f60ca2cbb1f96830a4af5794bdb343856555",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1s6hylz7ukghku23ydqh30pjfewnjwl8dxwccel",
+    "name": "TearsofHeaven5",
+    "policy_hex": "96bab62691a187a01d7e94a6f7536b176165514afcb3d496bfb52dec",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1sjc7hczkg0vkphrv42qnk9j8u39pgvak3cpdhh",
+    "name": "cNc21LPANeverEngineCOG10",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1skjmf20jx833artjudqm4a54lzv58wgsen53u5",
+    "name": "KingdomII",
+    "policy_hex": "eff570b927084b2e5dafae98b577a17fc86d4f28d75fdf0f914d5330",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1sqlzawtatg2djmx7a45gl258frgt2xkjxns7yd",
+    "name": "uglybro15",
+    "policy_hex": "12f9d9446c422caa870948bae1b8844c26c64958943a3954103b034f",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1t240q0c6j2wzfperquljxq82ce2sf6efuzprlk",
+    "name": "cNc21LPAnftNEWSupdate0989",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1tynh625jgfhhy5v00nzk4kgaepeul8uh4hpt88",
+    "name": "508",
+    "policy_hex": "aafd0fd4cde4bdd9e7e137b27911b559c9fb0d665d8512e000f58b26",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1ue6f3vjtglj86uatw9mznh3xuj2v50acm887zh",
+    "name": "TMELD",
+    "policy_hex": "a7b056a94fcc220c217375cee55fe5811ee148a92463523be50f5102",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1vlmm83wrehg7y372s9p4q60ae3q3cr6g7dlncy",
+    "name": "MVOUCHER",
+    "policy_hex": "a2936e00439913f1ac105c29883c013322360247c409343028b831be",
+    "quantity": 2697428
+  },
+  {
+    "fingerprint": "asset1vnsz3r2znyrhdemra6kgxd800cdvug2ulx5750",
+    "name": "cNc21LPAVitalik0836",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1vvw55wjpaawpd0lsx05c5vc83azx8cq56lpvhz",
+    "name": "uglybro35",
+    "policy_hex": "12f9d9446c422caa870948bae1b8844c26c64958943a3954103b034f",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1w062jv0vspjhk3hpzja9mh35xe5j22fs7u2rhp",
+    "name": "506",
+    "policy_hex": "aafd0fd4cde4bdd9e7e137b27911b559c9fb0d665d8512e000f58b26",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1w2pjuduntjzwqru06hku8nwrvk6sts082m9wx9",
+    "name": "cNc21LPAMonstrocity0032",
+    "policy_hex": "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1w4mjnp2k6mrfagfetkxeqemh6qx63gt5xxhmgs",
+    "name": "PatanOlafssontheGluttonous",
+    "policy_hex": "f0eca3e1fbe2d3801eff903b755d06bed64f19c30aacb1f124d18d6c",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1w5sv0fns904r2ew4n4xyv7fxp0qk8564wp6cvv",
+    "name": "FuckEveryonePass55",
+    "policy_hex": "084154ee75830cf626e07cb548d562598936dd3a6ee494f7cda6c528",
+    "quantity": 1
+  },
+  {
+    "fingerprint": "asset1w86zwjq9pdul3l27dr5lgkvs4euuy2fam72uq6",
+    "name": "Cardabbean01136",
+    "policy_hex": "7cb6fbb296945e2c7c8b4bda24b90636bc15becf9c4d6c6eabb6447c",
+    "quantity": 1
+  }
+]
