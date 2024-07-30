@@ -3,10 +3,10 @@ use reqwest::{Client, Error, header};
 use serde::{Deserialize};
 use base64::{engine::general_purpose::STANDARD, Engine as _};
 use serde_json::Value;
-use reqwest::Error as ReqwestError;
+// use reqwest::Error as ReqwestError;
 
 use crate::utils::constants::{API_BASE_URLS, IDS_BASE_URLS};
-use crate::utils::misc::ApiResponse;
+// use crate::utils::misc::ApiResponse;
 use crate::utils::misc::ApiClientError;
 
 
@@ -84,13 +84,13 @@ impl APIClient {
         let data = [("grant_type", "client_credentials")];
         let url = format!("{}/connect/token", self.ids_base_url);
 
-        println!("get_access_token, url:{}",url);
+        // println!("get_access_token, url:{}",url);
 
         let mut headers = header::HeaderMap::new();
         headers.insert(header::AUTHORIZATION, format!("Basic {}", self.auth_token).parse().unwrap());
         headers.insert(header::CONTENT_TYPE, "application/x-www-form-urlencoded".parse().unwrap());
 
-        println!("get_access_token, auth_token:{}",self.auth_token);
+        // println!("get_access_token, auth_token:{}",self.auth_token);
 
         let response = client.post(&url)
             .headers(headers)
@@ -191,7 +191,7 @@ impl APIClient {
         };
         
 
-        println!("prepare_headers, authorization_value:{}",authorization_value);
+        // println!("prepare_headers, authorization_value:{}",authorization_value);
 
         headers.insert(header::AUTHORIZATION, authorization_value.parse().unwrap());
         headers

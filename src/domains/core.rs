@@ -1,11 +1,11 @@
 use std::collections::HashMap;
 use crate::utils::api_client::APIClient;
-use crate::utils::misc::ApiResponse;
+// use crate::utils::misc::ApiResponse;
 use crate::utils::misc::ApiClientError;
 use crate::utils::misc::get_query_params;
 use crate::utils::misc::interpolate_str;
 use serde_json::Value;
-use reqwest::Error as ReqwestError;
+// use reqwest::Error as ReqwestError;
 
 pub struct Core {
     pub client: APIClient,
@@ -113,7 +113,7 @@ impl Core {
         let allowed_params = ["epoch_no", "pool_hash", "page_no", "page_size", "order"];
         let query_string = get_query_params(&options, &allowed_params);
         let path_template = "/api/core/odata/epochsstakes";
-        let mut params_map = HashMap::new();
+        let params_map = HashMap::new();
         let mut path = interpolate_str(&path_template, &params_map);
         if !query_string.is_empty() {
             path = format!("{}?{}", path, query_string);
@@ -136,7 +136,7 @@ impl Core {
         let allowed_params = [];
         let query_string = get_query_params(&options, &allowed_params);
         let path_template = "/api/core/odata/poolshashes";
-        let mut params_map = HashMap::new();
+        let params_map = HashMap::new();
         let mut path = interpolate_str(&path_template, &params_map);
         if !query_string.is_empty() {
             path = format!("{}?{}", path, query_string);
@@ -431,7 +431,7 @@ impl CoreBlocks {
         let allowed_params = [];
         let query_string = get_query_params(&options, &allowed_params);
         let path_template = "/api/core/blocks/latest";
-        let mut params_map = HashMap::new();
+        let params_map = HashMap::new();
         let mut path = interpolate_str(&path_template, &params_map);
         if !query_string.is_empty() {
             path = format!("{}?{}", path, query_string);
@@ -442,7 +442,7 @@ impl CoreBlocks {
         let allowed_params = ["block_no", "depth"];
         let query_string = get_query_params(&options, &allowed_params);
         let path_template = "/api/core/blocks/history";
-        let mut params_map = HashMap::new();
+        let params_map = HashMap::new();
         let mut path = interpolate_str(&path_template, &params_map);
         if !query_string.is_empty() {
             path = format!("{}?{}", path, query_string);
@@ -558,7 +558,7 @@ impl CoreBlocksLatest {
         let allowed_params = [];
         let query_string = get_query_params(&options, &allowed_params);
         let path_template = "/api/core/blocks/latest/transactions";
-        let mut params_map = HashMap::new();
+        let params_map = HashMap::new();
         let mut path = interpolate_str(&path_template, &params_map);
         if !query_string.is_empty() {
             path = format!("{}?{}", path, query_string);
@@ -611,7 +611,7 @@ impl CoreEpochs {
         let allowed_params = [];
         let query_string = get_query_params(&options, &allowed_params);
         let path_template = "/api/core/epochs/latest";
-        let mut params_map = HashMap::new();
+        let params_map = HashMap::new();
         let mut path = interpolate_str(&path_template, &params_map);
         if !query_string.is_empty() {
             path = format!("{}?{}", path, query_string);
@@ -646,7 +646,7 @@ impl CoreEpochsParams {
         let allowed_params = [];
         let query_string = get_query_params(&options, &allowed_params);
         let path_template = "/api/core/epochs/params/latest";
-        let mut params_map = HashMap::new();
+        let params_map = HashMap::new();
         let mut path = interpolate_str(&path_template, &params_map);
         if !query_string.is_empty() {
             path = format!("{}?{}", path, query_string);
@@ -742,7 +742,7 @@ impl CorePools {
         let allowed_params = [];
         let query_string = get_query_params(&options, &allowed_params);
         let path_template = "/api/core/pools/hashes";
-        let mut params_map = HashMap::new();
+        let params_map = HashMap::new();
         let mut path = interpolate_str(&path_template, &params_map);
         if !query_string.is_empty() {
             path = format!("{}?{}", path, query_string);

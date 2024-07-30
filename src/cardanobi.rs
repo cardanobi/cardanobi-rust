@@ -3,6 +3,7 @@ use crate::domains::core::Core; // Ensure `Core` is imported properly
 use crate::domains::bi::Bi; // Ensure `Bi` is imported properly
 use crate::utils::misc::ApiClientError;
 
+#[allow(dead_code)]
 pub struct CardanoBI {
     client: APIClient,
     pub core: Core, // Add the Bi struct as a public field
